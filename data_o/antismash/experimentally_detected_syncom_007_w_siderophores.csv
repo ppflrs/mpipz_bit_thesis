@@ -1,0 +1,13 @@
+alsphere_ID,Kingdom,Phylum,Class,Order,Family,Genus,strain,terpene,other,bacteriocin,siderophore,arylpolyene,nrps,hserlactone,phenazine,t3pks,arylpolyene-ladderane,phosphonate,t1pks-nrps,ladderane,microviridin,lantipeptide,arylpolyene-resorcinol,t1pks-otherks,arylpolyene-nrps,lassopeptide,resorcinol,acyl_amino_acids-siderophore,t1pks,thiopeptide,terpene-nrps,siderophore-nrps,ectoine,butyrolactone,otherks,lantipeptide-t1pks-nrps,sactipeptide-head_to_tail
+Chlamy107,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Chlamy107,,1.0,3.0,,1.0,2.0,,,,,,,,,,,,,,,,,,1.0,,,,,,
+Chlamy123,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Stenotrophomonas,Chlamy123,,,1.0,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,
+Chlamy125,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Chlamy125,,1.0,1.0,,1.0,2.0,,,,,,,,,,,,,,,,,,,,,,,,
+Chlamy149,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Massilia,Chlamy149,2.0,,1.0,,,,2.0,,,,,,,,,,,,,,,,,,,,,,,
+Chlamy176,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Chlamy176,1.0,1.0,3.0,1.0,,5.0,,,,,,,,,1.0,,,,,,,,,,,,,,1.0,
+Chlamy19,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Cupriavidus,Chlamy19,3.0,1.0,,1.0,1.0,,,1.0,,1.0,1.0,,,,,,,,,,,,,,,,,,,
+Chlamy23,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Micrococcaceae,Arthrobacter,Chlamy23,1.0,1.0,,1.0,,,,,1.0,,,,,,,,,,,,,,1.0,,,,,,,
+Chlamy24,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Stenotrophomonas,Chlamy24,,,1.0,,,2.0,,,,,,1.0,,,,,,,,,,,,,,,,,,
+Chlamy25,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Cupriavidus,Chlamy25,5.0,3.0,1.0,1.0,1.0,3.0,,,,,,,,,,,,1.0,,,,,,,,,,,,
+Chlamy40,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Chryseobacterium,Chlamy40,6.0,1.0,,1.0,2.0,,,1.0,,1.0,1.0,,,,,,,1.0,,,,,,,,,,,,
+Chlamy74,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,Chlamy74,,,,,,,,,1.0,,,,,,,,,,2.0,1.0,,,,,,,,,,
+Chlamy87,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Cupriavidus,Chlamy87,7.0,3.0,1.0,2.0,2.0,,,1.0,,1.0,,,,,,,,1.0,,,,,,,,,,,,

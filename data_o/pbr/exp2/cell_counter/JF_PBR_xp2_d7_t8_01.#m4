@@ -1,0 +1,2297 @@
+[common]
+Program=Beckman Coulter Multisizer
+CPName=ANSI code page 1252 Latin 1 (US, Western Europe)
+SavePC=Version 4.03    15 Jan 2014
+VersionMajorPC= 4
+VersionMinorPC= 3
+VersionExperPC= 0
+ftype= 300  Multisizer data
+Format= 300
+MType= 4
+multtype= 110
+Filename=JF_ICL-PBR_d7_t8_01.#m4
+Pathname=C:\cell_counter_results\Paloma\Soil-flasksexp-MA1\day4\JF_ICL-PBR_d7_t8_01.#m4
+Import=
+Export=
+Saved= 1556120898  17:48:18  24 Apr 2019
+ReSaved= 0  
+SavedTZ= -120,W. Europe Daylight Time
+ReSavedTZ= -120,W. Europe Daylight Time
+Comment1=
+Operator=
+BarCode=
+RunNum= 28
+[#Saves]
+ 1556120898  17:48  24 Apr 2019
+ 0  
+[#SaveFlags]
+ 262144
+ 0
+[Save0]
+Pathname=C:\cell_counter_results\Paloma\Soil-flasksexp-MA1\day4\JF_ICL-PBR_d7_t8_01.#m4
+Time= 1556120898  17:48:18  24 Apr 2019
+TZ= -120,W. Europe Daylight Time
+Flags= 262144
+LoginName=
+RealName=
+ID=
+a= 1
+b= 0
+c= 16
+User=BeckmanCoulter
+Computer=MYLJA019635
+WinVer=6.1
+DosVer=29.177
+Comment=
+CPName=ANSI code page 1252 Latin 1 (US, Western Europe)
+[SIsave0]
+Comment1=
+Operator=
+GroupID=JF_ICL-PBR_d7_t8
+SampleID=
+BarCode=
+IsControl= 0
+Density= 0
+RunNumber= 28
+Shape= 0
+Electro=BCI ISOTON II
+Disperse=None
+Var1= 0
+Var2= 0
+MassC= 0
+DilF= 0
+UseDilF= 0
+PreDilF= 0
+UsePreDilF= 0
+SampleVol= 0.04
+ElectroVol= 10
+Valid= 0
+[CPsave0]
+PBins= 400
+PGeo= 1
+PVol= 0
+PMinDiam= 0.6
+PMaxDiam= 18
+PUnits= 4204
+PMnWd= 0
+PMxWd= 0
+PMnRt= 0
+PMxRt= 10
+PMnGn= 0
+PMxGn= 7
+PSmr= 1
+PEdit= 0
+PCCorr= 1
+PM2Edit= 0
+WidthEdit= 0
+PulseEdit= 0
+MinPulse= 0
+MaxPulse= 0
+RecentEdit= 0
+RecentTimeSec= 0
+UseScaleFactor= 0
+ScaleFactor= 1
+Valid= 0
+[SPsave0]
+MinSize= 3.96236
+MaxSize= 18
+XScale=70, 0, 0, 0
+YScale=1, 0, 2, 1
+Geometric= 0
+Valid= 0
+[SSsave0]
+Mean= 0, 0, 0
+Median= 0, 0, 0
+Mode= 0, 0, 0
+SD= 0, 0, 0
+D10= 0, 0, 0
+D90= 0, 0, 0
+NumMl= 0, 0, 0
+UseMean= 0
+UseMedian= 0
+UseMode= 0
+UseSD= 0
+UseD10= 0
+UseD90= 0
+UseNumMl= 0
+GeomStats= 0
+XUnits= 70
+YUnits= 1
+UseRange= 0
+MinDiam= 0
+MaxDiam= 0
+Comment1=
+Filename=
+Valid= 1
+[KDsave0]
+Kd= 44.324
+[sample]
+GroupID=JF_ICL-PBR_d7_t8
+SampleID=
+Shape= 0
+[instrument]
+nBins= 400
+nTrend= 0
+nPulses= 198
+nTimeStamps= 63
+PeaksRemoved= 0
+nPConv= 198
+nAdded= 0
+PBins= 400
+PGeo= 1
+PVol= 0
+PMinDiam= 0.6
+PMaxDiam= 18
+PUnits= 4204
+PMnWd= 0
+PMxWd= 0
+PMnRt= 0
+PMxRt= 10
+PMnGn= 0
+PMxGn= 7
+PSmr= 1
+PEdit= 0
+PCCorr= 1
+PM2Edit= 0
+WidthEdit= 0
+PulseEdit= 0
+MinPulse= 0
+MaxPulse= 0
+RecentEdit= 0
+RecentTimeSec= 0
+UseScaleFactor= 0
+ScaleFactor= 1
+Bigs= 0
+Smalls= 7
+Goods= 191
+RawGT60= 0
+oSpace= 0
+Serial=
+StartTime= 1556120870  17:47:50  24 Apr 2019
+StartTZ= -120,W. Europe Daylight Time
+Electro=BCI ISOTON II
+Disperse=None
+AcqVersion=Version 4.03    15 Jan 2014
+CPVersion=Version 4.03    15 Jan 2014
+Var1= 0
+Var2= 0
+Current= 600
+Resistance= 100
+VperA= 100000
+CperV= 838861
+Aperture= 30
+OrfLen= 0
+Gain= 4
+SumNoise= 54
+nNoise= 6
+MaxHtCorr= -117
+WdthErrs= 0
+MassC= 0
+Kd= 44.324
+DilF= 0
+UseDilF= 0
+PreDilF= 0
+UsePreDilF= 0
+SizeStd= 0
+SizeStdU= 0
+Edit= 0
+Control= 3
+Time= 12.64
+Count= 100
+Day= 0
+Month= 0
+Year= 0
+FSample= 0
+Fleft= 0
+Fright= 0
+NSample= 0
+Nleft= 0
+Nright= 0
+WSample= 0
+Wleft= 0
+Wright= 0
+M3leftum= 3.96236
+M34rightum= 18
+M34Cursors= 2
+Cal= 0
+bct= 0
+ASetup= 0
+Blank= 0
+CurGain= 0
+Polarity= 0
+TotCount= 30000
+AScale= 0
+CoinCorr= 0
+RawCount= -1
+MinRaw= -1
+MaxRaw= -1
+CCCount= -1
+MinCC= -1
+MaxCC= -1
+AvgSig= 3225
+MinSig= 3073
+MaxSig= 3370
+MinKd= 44.324
+AvgKd= 44.324
+MaxKd= 44.324
+SampleVol= 0.04
+ElectroVol= 10
+AnalyticVol= 50
+ManoVol= 50
+rDensity= 0
+sDensity= 0
+TimeSec= 30
+logscale= 0
+Extrap= 0
+Page= 0
+Full= 0
+Narrow= 0
+Edited= 0
+IsControl= 0
+ControlTm= 0  
+CalTm= 0  
+CalDiam= 0
+EndTm= 1556120898  17:48:18  24 Apr 2019
+Pauses= 0
+Resumes= 0
+Conts= 0
+RSFile=
+RSMod= 1
+PrefFile=C:\Multisizer4e\SOP\Default.prf
+PrefMod= 0
+SOPFile=
+CurRun= 1
+NumRuns= 3
+CalLot=
+CalExpY= 0
+CalExpM= 0
+CalExpD= 0
+CalRuns= 0
+CalByMean= 0
+CalByVolume= 0
+CalOldKd= 0
+ConcTm= 0  
+ConcAssay= 0
+SOPName=
+SOPSaved= 0  
+SOPLoaded= 0  
+SOPSOMName=
+SOPSOMSaved= 0  
+SOPPrefName=
+SOPPrefSaved= 0  
+SOPComment=
+SOPAuthor=
+SOPLockPrefs= 0
+[SampleStats]
+Mean= 0, 0, 0
+Median= 0, 0, 0
+Mode= 0, 0, 0
+SD= 0, 0, 0
+D10= 0, 0, 0
+D90= 0, 0, 0
+NumMl= 0, 0, 0
+UseMean= 0
+UseMedian= 0
+UseMode= 0
+UseSD= 0
+UseD10= 0
+UseD90= 0
+UseNumMl= 0
+GeomStats= 0
+XUnits= 70
+YUnits= 1
+UseRange= 0
+MinDiam= 0
+MaxDiam= 0
+Comment1=
+Filename=
+Valid= 1
+[M3Info]
+SOMAuthor=
+SOMDescript=
+SampleDescript=
+RState= 12
+ApDiam= 30
+ApSerial= 1838
+MaxCellVol= 0
+ApComm= 
+Kd= 44.324
+Threshum= 0.5998
+NoiseThum= 0.5717
+RwNoiseThum= 0.8116
+NoiseTm= 1547820766
+CntLvlum= 0.5998
+MrkSpLum= 0
+ZMrkSpLum= 0.5998
+Current= 600
+MeaCur= -26672
+MeaVol= -400080
+PrGain= 2
+Pol= 0
+Thresh= 967
+StSpd= 0
+TmBs= 1000
+CType= 2
+TimeSec= 30
+Volume= 50
+ChCount= 100
+TCount= 30000
+AnVol= 0
+MinWd= 24
+MaxWd= 30000
+CntLvl= 967
+MrkSpL= 0
+TPkEnable= 0
+TPkRng= 0
+TPkHt= 1000
+RnBEmp= 100
+StrtMode= 0
+MxStrtDly= 0
+StrtDly= 0
+TPkPAN= 1
+PnEn= 1
+PrEn= 1
+PPMEn= 1
+SetPr= 11758
+PPCoef= 1500
+ICoef= 0
+ILim= 999999
+RstV= 0
+InPmpSpd= -30000
+OutPmpSpd= 10000
+BagPr= 11758
+Count= 198
+CCCount= 198
+ZCount= 198
+ZCCCount= 198
+Noise= 0
+Pressure= 12369
+StirSpd= 0
+StrtTm= 16861682
+EndTm= 16874700
+TDBytes= 2772
+MCLo= 35367
+SCLo= 7.57439e+007
+Conc= 0
+NrPC= 32768
+WdPC= 0
+CurOfst= 0
+GnStage= 0
+PmpTh= 0
+PmpC1= 0
+PmpC2= 0
+PmpD= 0
+VperA= 100000
+CperV= 838861
+VacPr= 11775
+Of4096= 718
+Of1024= 716
+Of256= 717
+Of64= 720
+Of16= 724
+Of4= 722
+Of1= 724
+Of025= 717
+PPos= 0
+CalPer= 60
+CalTemp= 3
+TPkW= 30
+TPkRt= 3000
+RegPos= 0
+RegPer= 10
+SPPsia= 1300
+SampkHz= 6000
+SProg= 0
+MxHC= -117
+MxSS= 100
+BgPFull= 33
+BgSVol= 704
+CalSz= 20000
+BgTop= 1526
+BgBot= 1222
+ELive= 0
+DrSnsErr= 0
+DbgEn= 0
+LastCC= 1000
+ApLen= 75
+ApSerNo= 1838
+MainTemp= 31
+AnaTemp= 40
+StMainTemp= 31
+StAnaTemp= 39
+F1St= 1
+F2St= 0
+LmpSt= 1
+StirSt= 0
+UseStirrer= 0
+PlatUp= 1
+DrClsd= 1
+Spl1= 0
+Spl2= 0
+DilJrPr= 1
+DilJrLvl= 0
+WstJrPr= 1
+WstJrLvl= 0
+MPHome= 1
+MPAway= 0
+A5V= 4985
+AM5v= -5047
+A15V= 14867
+AM15V= -14982
+D5V= 4947
+D24V= 23992
+LampV= -15
+A0V= -1
+CurEn= 3
+AutAdj= 0
+SSCorr= -10
+VacPmpSt= 1
+V1= 0
+V2= 0
+V3= 0
+V4= 0
+V5= 0
+V6= 1
+V7= 1
+V8= 0
+V9= 0
+CurSwSt= 0
+MPP= 0
+MdHtTh= 20000
+Rev=2.00.66
+BldTm=15:15:19
+BldDt=Apr  4 2016
+ERunTm= 12640
+NoiThrsh= 432
+RwNoiThrsh= 1236
+Vr2= 0
+Vr3= 0
+PltSenEn= 1
+DrSenEn= 1
+SSEn1= 1
+SSEn2= 1
+DJrEn= 1
+WJrEn= 1
+DiStBk= 500
+StpCkDly= 20
+RnTCode= 0
+Flow= 3975
+HwConf= 776
+FPGA= 800
+StAddr= 0
+MinFlw= 2100
+MaxFlw= 5075
+MaxEngy= 3645
+TotSTm= 6000
+PFlSTm= 0
+FillTm= 12000
+FlshTm= 5000
+DrainTm= 12000
+SerNo=
+MtrPrg= 50
+RnsSBE= 72
+TmBOMsrd= 3332770
+PrssTol= 97
+MaxApR= 100000
+ChkSmplLvlCur= 500
+ChkSmplLvlEn= 1
+RMsrCur= 100
+ChkCurEn= 1
+MaxSupV= 186
+DTPct= 60
+DTPctEn= 0
+DTRnsEn= 1
+OffsetsEn= 0
+spare3= 0
+ZCount= 198
+ZMarks= 26393
+ZSpaces= 7.57618e+007
+ZLevel= 967
+MinHt= 936
+ZMinHt= 936
+WidthSF= 1
+NMMax= 0
+NMMean= 0
+NMSD= 0
+NMORC= 0
+NMCount= 0
+Save= 1
+UseRunDir= 1
+RunDir=C:\cell_counter_results\Paloma\Soil-flasksexp-MA1\day4
+SavePulses= 1
+Average= 1
+PrintAvg= 0
+Print= 0
+Export= 0
+NumRuns= 3
+Wait= 0
+AutoFlush= 0
+AutoFlushBefore= 1
+EnterSampleInfo= 1
+CompSampleSpecs= 0
+GoIfGood= 0
+Electro=BCI ISOTON II
+Disperse=None
+LastCert= 0  
+NextCert= 0  
+LastReminderTm= 0  
+LastReminderDays= 0
+ReminderCnt= 0
+LastReminderID= 0
+CalPeriod2= 500
+LastCal= 1556120502  17:41:42  24 Apr 2019
+AnalyticVol= 50
+Continuous= 0
+ContMax= 0
+MeaZero= -10000
+IPAddr=192.168.255.2
+PrRnSlots= 305
+PrRn_ul= 80
+PrRn_ms= 6010
+M4StirSpd= 60
+M4DesStirSpd= 60
+M4Beaker= 0
+M4BkrID=
+M4StrPosMode= 2
+M4SPosActual= 3553
+M4SPosAvg= 3547
+M4SPosAvgDeg= -35.1481
+M4SPosDesiredDeg= -50
+M4_SPosManual= 0
+DefRnSpc= 0
+dpctf= 66
+wpctf= 4
+DisableKeypad= 0
+KeyPadUsed= 0
+SamSameDil= 0
+DilElectro=
+DilLotNum=
+DilExpDate=
+DilOpnDate=
+SamElectro=
+SamLotNum=
+SamExpDate=
+SamOpnDate=
+lFillTm= 1555493315
+lFlushTm= 1556120860
+lUnblockTm= 1555690051
+lEmptyTm= 1555428640
+lDrainTm= 0
+lPurgeTm= 0
+lAdjustTm= 1547820717
+lChangeApTm= 1547820691
+WJarFull= 0
+ApHiRes= 0
+SzRng= 0
+WarnIf60= 0
+Warn60pct= 0
+Warn60num= 0
+CalLot=
+CalExpY= 0
+CalExpM= 0
+CalExpD= 0
+CalRuns= 1
+[BlockDetect]
+DetectMode= 0
+DetectAction= 1
+MaxRetrys= 4
+MinSec= 4
+UseFlowAbs= 0
+UseFlowDelta= 0
+UseCountsAbs= 0
+UseCountsDelta= 0
+UseConcAbs= 0
+UseApOhmsAbs= 0
+UseApOhmsDelta= 0
+FlowNominal= 3.4
+FlowMin= 2.21
+FlowMax= 4.93
+FlowDelta= 35
+CountsNominal= 1000
+CountsMin= 405
+CountsMax= 1595
+CountsDelta= 40
+ConcMax= 20
+ApOhmsNominal= 53
+ApOhmsMin= 42.4
+ApOhmsMax= 63.6
+ApOhmsDelta= 40
+ShowIcon= 0
+RefRun=
+[BlockMonitor]
+ScopeYScale= 0
+MinAutoYScale= 30
+MonitorData= 0
+FlowManual= 0
+FlowMin= 0
+FlowMax= 2
+CPSManual= 0
+CPSMin= 0
+CPSMax= 1000
+ConcManual= 0
+ConcMin= 0
+ConcMax= 12
+ApOhmsNominal= 0
+AVDManual= 0
+AVDMin= 0
+AVDMax= 10
+[BlkRunInfo]
+ITime= 0
+IFlow= 0
+ICPS= 0
+IKOhms= 0
+Babs= 0
+Bdelta= 0
+BlkCause= 0
+[#Extra]
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+[#Bindiam]
+0.6
+0.605124
+0.610291
+0.615502
+0.620758
+0.626059
+0.631405
+0.636797
+0.642235
+0.647719
+0.65325
+0.658828
+0.664454
+0.670128
+0.67585
+0.681622
+0.687442
+0.693312
+0.699233
+0.705204
+0.711226
+0.717299
+0.723424
+0.729602
+0.735832
+0.742115
+0.748452
+0.754844
+0.761289
+0.76779
+0.774347
+0.780959
+0.787628
+0.794353
+0.801137
+0.807978
+0.814877
+0.821836
+0.828854
+0.835931
+0.84307
+0.850269
+0.857529
+0.864852
+0.872237
+0.879685
+0.887197
+0.894773
+0.902414
+0.91012
+0.917892
+0.92573
+0.933635
+0.941607
+0.949648
+0.957757
+0.965936
+0.974184
+0.982503
+0.990893
+0.999354
+1.00789
+1.01649
+1.02517
+1.03393
+1.04276
+1.05166
+1.06064
+1.0697
+1.07883
+1.08805
+1.09734
+1.10671
+1.11616
+1.12569
+1.1353
+1.145
+1.15477
+1.16464
+1.17458
+1.18461
+1.19473
+1.20493
+1.21522
+1.22559
+1.23606
+1.24661
+1.25726
+1.268
+1.27882
+1.28974
+1.30076
+1.31186
+1.32307
+1.33437
+1.34576
+1.35725
+1.36884
+1.38053
+1.39232
+1.40421
+1.4162
+1.42829
+1.44049
+1.45279
+1.4652
+1.47771
+1.49033
+1.50305
+1.51589
+1.52883
+1.54189
+1.55505
+1.56833
+1.58172
+1.59523
+1.60885
+1.62259
+1.63645
+1.65042
+1.66451
+1.67873
+1.69306
+1.70752
+1.7221
+1.73681
+1.75164
+1.7666
+1.78168
+1.7969
+1.81224
+1.82772
+1.84332
+1.85906
+1.87494
+1.89095
+1.9071
+1.92338
+1.93981
+1.95637
+1.97308
+1.98992
+2.00692
+2.02405
+2.04134
+2.05877
+2.07635
+2.09408
+2.11196
+2.13
+2.14819
+2.16653
+2.18503
+2.20369
+2.22251
+2.24148
+2.26063
+2.27993
+2.2994
+2.31903
+2.33884
+2.35881
+2.37895
+2.39926
+2.41975
+2.44042
+2.46125
+2.48227
+2.50347
+2.52485
+2.54641
+2.56815
+2.59008
+2.6122
+2.6345
+2.657
+2.67969
+2.70257
+2.72565
+2.74893
+2.7724
+2.79607
+2.81995
+2.84403
+2.86832
+2.89281
+2.91751
+2.94243
+2.96755
+2.99289
+3.01845
+3.04422
+3.07022
+3.09644
+3.12288
+3.14955
+3.17644
+3.20356
+3.23092
+3.25851
+3.28634
+3.3144
+3.3427
+3.37124
+3.40003
+3.42907
+3.45835
+3.48788
+3.51766
+3.5477
+3.578
+3.60855
+3.63936
+3.67044
+3.70178
+3.73339
+3.76528
+3.79743
+3.82986
+3.86256
+3.89554
+3.92881
+3.96236
+3.99619
+4.03032
+4.06473
+4.09944
+4.13445
+4.16975
+4.20536
+4.24127
+4.27749
+4.31401
+4.35085
+4.38801
+4.42548
+4.46327
+4.50138
+4.53982
+4.57858
+4.61768
+4.65711
+4.69688
+4.73699
+4.77744
+4.81824
+4.85938
+4.90088
+4.94272
+4.98493
+5.0275
+5.07043
+5.11373
+5.1574
+5.20144
+5.24585
+5.29065
+5.33583
+5.38139
+5.42734
+5.47369
+5.52043
+5.56757
+5.61511
+5.66306
+5.71142
+5.76019
+5.80938
+5.85899
+5.90902
+5.95948
+6.01037
+6.06169
+6.11345
+6.16566
+6.21831
+6.27141
+6.32496
+6.37897
+6.43344
+6.48838
+6.54378
+6.59966
+6.65602
+6.71286
+6.77018
+6.82799
+6.8863
+6.9451
+7.00441
+7.06422
+7.12454
+7.18538
+7.24674
+7.30862
+7.37103
+7.43397
+7.49745
+7.56148
+7.62605
+7.69117
+7.75684
+7.82308
+7.88988
+7.95726
+8.02521
+8.09374
+8.16285
+8.23255
+8.30285
+8.37375
+8.44526
+8.51738
+8.59011
+8.66346
+8.73744
+8.81205
+8.8873
+8.96319
+9.03973
+9.11692
+9.19477
+9.27329
+9.35248
+9.43234
+9.51289
+9.59412
+9.67605
+9.75867
+9.842
+9.92605
+10.0108
+10.0963
+10.1825
+10.2695
+10.3572
+10.4456
+10.5348
+10.6248
+10.7155
+10.807
+10.8993
+10.9923
+11.0862
+11.1809
+11.2763
+11.3726
+11.4697
+11.5677
+11.6665
+11.7661
+11.8666
+11.9679
+12.0701
+12.1732
+12.2771
+12.382
+12.4877
+12.5943
+12.7019
+12.8103
+12.9197
+13.03
+13.1413
+13.2535
+13.3667
+13.4808
+13.596
+13.7121
+13.8292
+13.9472
+14.0663
+14.1865
+14.3076
+14.4298
+14.553
+14.6773
+14.8026
+14.929
+15.0565
+15.1851
+15.3147
+15.4455
+15.5774
+15.7104
+15.8446
+15.9799
+16.1163
+16.2539
+16.3927
+16.5327
+16.6739
+16.8163
+16.9599
+17.1047
+17.2508
+17.3981
+17.5466
+17.6965
+17.8476
+18
+[Binunits]
+Units=1, 0, 0, 0
+[#Binheight]
+3
+8
+5
+3
+4
+0
+7
+4
+3
+3
+3
+9
+2
+3
+7
+6
+6
+1
+4
+2
+2
+2
+2
+3
+3
+4
+2
+2
+1
+1
+1
+4
+1
+1
+7
+1
+1
+0
+2
+2
+1
+0
+1
+1
+1
+1
+1
+2
+1
+0
+2
+0
+2
+0
+1
+2
+0
+0
+0
+0
+1
+0
+2
+1
+0
+1
+1
+1
+1
+0
+2
+1
+0
+1
+1
+0
+0
+1
+0
+0
+1
+0
+1
+2
+0
+0
+1
+0
+1
+0
+1
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+1
+1
+0
+0
+1
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+[SizeStats]
+Mean= 10.1237
+MeanMin= 0
+MeanMax= 0
+MeanNom= 0
+Mode= 4.04749
+ModeMin= 0
+ModeMax= 0
+ModeNom= 0
+Median= 10.8531
+MedianMin= 0
+MedianMax= 0
+MedianNom= 0
+SD= 3.57807
+SDMin= 0
+SDMax= 0
+SDNom= 0
+CV= 35.3435
+MinSize= 3.96236
+MaxSize= 18
+XScale=70, 0, 0, 0
+YScale=1, 0, 2, 1
+Geometric= 0
+SampleSize= 11
+Variance= 12.8026
+Skew= -0.45709
+Kurtosis= -0.60765
+D(p,q)= 9.3128
+p= 0
+q= 0
+MinChan= 222
+MaxChan= 399
+D10= 4.05097
+D50= 10.8531
+D90= 12.7669
+SSA= 0
+CumY= 55220
+ConfMin= 8.00918
+ConfMax= 12.2382
+d10Nom= 0
+d10Min= 0
+d10Max= 0
+d90Nom= 0
+d90Min= 0
+d90Max= 0
+[SizePctX]
+10
+25
+50
+75
+90
+-1
+-1
+-1
+-1
+[SizePctXGT]
+10
+25
+50
+75
+90
+-1
+-1
+-1
+-1
+[SizePctY]
+4.05097
+6.65602
+10.8531
+12.382
+12.7669
+3.99619
+3.99619
+3.99619
+3.99619
+[SizePctYGT]
+12.7669
+12.382
+10.8531
+6.65602
+4.05097
+16.3927
+16.3927
+16.3927
+16.3927
+[SizeAvgStats]
+Mean= 3,10.7856,87.4118,0.745885,9.28937
+Median= 3,11.2023,97.0294,0.699473,9.80034
+D(p,q)= 3,10.284,79.2155,0.719062,8.84168
+p= 0
+q= 0
+Variance= 3,7.02473,43.247,0.218687,6.56831
+SD= 3,3.51809,7.02473,0.46764,2.56287
+CV= 3,155.28,8918.23,27.5893,65.3687
+Skew= 3,35.3437,650.038,-0.694103,18.332
+Kurtosis= 3,727.104,264569,-0.141119,371.569
+CumY= 3,6462,2.08006e+007,19,3370
+D10= 3,5.48358,18.7341,0.621854,4.23768
+D50= 3,11.2023,97.0294,0.699473,9.80034
+D90= 3,14.4844,165.768,0.83061,12.8213
+Kd= 3,132.972,5893.85,44.324,44.324
+SSA= 3,38446.1,5.69523e+008,5726.46,17209.4
+MinSize= 0.6
+MaxSize= 18
+XScale=70, 0, 0, 0
+YScale=1, 0, 0, 0
+Geometric= 0
+MinChan= 0
+MaxChan= 399
+[#Pulses5hex]
+335,1F1,2B,9D,11
+31D,1E1,49,E4,11
+172,CC,34,49,11
+138,B5,7A,76,11
+15C,CC,2D,31,11
+137,9C,39,3F,11
+11E,E9,24,29,11
+F5,9C,24,1D,11
+190,113,2F,4F,11
+100,C0,2C,25,11
+12B,97,50,45,11
+1A2,F8,CA,D1,11
+10B,8C,39,31,11
+10F,8F,31,2A,11
+133,BA,58,5B,11
+1A4,104,5D,7B,11
+DFC00,7F800,3B,3B89B,66
+257,1A5,33,74,11
+800,49D,35,1BF,22
+18F,F7,3B,52,11
+17C,DF,39,44,11
+117,C1,3C,39,11
+103,8C,A6,5F,11
+155,BE,4E,5A,11
+163,C3,4C,52,11
+12A,C8,30,2D,11
+12B,DE,26,35,11
+FA,A1,3C,30,11
+10B,9B,39,2C,11
+12B,98,3E,3A,11
+512,2CA,2F,FE,11
+4ED,31D,BE,2B5,11
+FC,C6,31,28,11
+1A7,EE,33,52,11
+23D,14A,32,70,11
+9E000,57900,3E,2B57D,66
+136,A2,32,39,11
+FC,9D,3F,34,11
+10D,CF,31,26,11
+116,92,2C,28,11
+2EF,1A9,31,AA,11
+123,93,39,3A,11
+13E,B0,1D0,146,11
+102,9E,28,24,11
+1A3,DB,41,60,11
+F2,87,D,C,11
+9740,5000,33,21BE,44
+14C,E9,26,30,11
+FA,A5,57,44,11
+1AA,12B,3A,54,11
+169,11B,37,46,11
+13D,B0,55,53,11
+1F7,118,59,79,11
+F2,7B,38,2B,11
+9580,4C20,33,2176,44
+1D1,FA,3E,65,11
+F2,AA,2E,29,11
+33B,1C4,30,A0,11
+131,BC,40,3D,11
+12F,9E,33,32,11
+128,DA,25,31,11
+103,93,21,21,11
+F2,B0,52,3C,11
+F3,9C,19,15,11
+2DF,1C6,30,9B,11
+7C0,4B1,37,1D8,22
+140,DB,81,74,11
+121C,9A8,49,52C,22
+11C,C8,6B,4C,11
+30F,188,33,8F,11
+F4,8C,2D,2B,11
+123,A1,22,25,11
+13A,AB,33,35,11
+F3,9C,12,15,11
+29000,16BC0,2E,8928,55
+F0400,86400,40,440B8,66
+16F,FA,3F,58,11
+151,E5,1F,3C,11
+F7,7C,2A,22,11
+131,B4,39,3B,11
+90C,551,30,1FC,22
+46E,273,40,10E,11
+113,AB,25,2B,11
+994,58A,32,214,22
+19A,117,30,4B,11
+F5,AC,2B,15,11
+F9,AE,47,3B,11
+228,164,32,6B,11
+10A,91,40,39,11
+1C4,12E,2A,5A,11
+CD0,808,35,2E1,22
+1CC,102,5E,9C,11
+157,F1,1C,2C,11
+120,AC,25,2F,11
+170,EE,31,46,11
+14B,B8,3F,4E,11
+113,E8,36,30,11
+438,23C,40,10C,11
+1898,E48,31,55D,22
+165,C5,38,41,11
+158,D1,1F,2E,11
+125,9B,3E,36,11
+C5C,699,3E,304,22
+118,AB,49,46,11
+120,AF,2D,3B,11
+3BA,239,A5,209,11
+188,D7,43,59,11
+1A0,FA,34,4B,11
+216,15B,3C,71,11
+1A3,F0,24,45,11
+3AC,1FD,3F,E1,11
+1E50,108C,39,73F,33
+FA,80,32,2A,11
+55E,2F5,39,141,11
+253000,15AC00,2E,7F1B6,77
+1D6,12B,74,BC,11
+11C400,9A400,41,5627B,66
+166,BE,34,42,11
+1C5,103,32,5C,11
+11C,A0,60,42,11
+127,B3,3A,36,11
+F2,84,14,13,11
+FA,9E,2D,2A,11
+18C,D0,6F,71,11
+133,A7,31,34,11
+676,39A,33,154,11
+F7,B2,14,12,11
+10C,8C,3D,2D,11
+27C,169,2A,72,11
+F8,A5,2C,26,11
+10B,93,2E,2F,11
+12E,DD,2A,29,11
+3F60,3440,28,E23,33
+144,CE,31,44,11
+5F6,35D,33,143,11
+10C,B0,14,1D,11
+15A,E0,B4,9B,11
+FA,BE,2E,21,11
+361,202,32,BA,11
+11F,AA,23,29,11
+12E,A0,3D,3F,11
+27A,156,37,8F,11
+165,EC,39,50,11
+104,9A,30,2B,11
+195,CC,31,4F,11
+11F,99,52,40,11
+360,1C4,2C,92,11
+218,120,49,82,11
+151,C9,28,31,11
+485,243,83,197,11
+1F1,105,2F,59,11
+1488,C08,8E,A7B,22
+259,13D,30,6F,11
+13D,E2,2C,35,11
+10F400,96400,42,4FBD9,66
+214,15A,36,86,11
+497,16E,95,F4,91
+3FB,23E,35,DD,11
+12F,BB,5F,5A,11
+7600,4970,3A,1DDC,44
+268,137,56,B9,11
+780,4C3,85,3A9,12
+134,BF,35,33,11
+16B,FF,31,3B,11
+377,1CB,6A,13E,11
+2BA,171,30,7C,11
+160,10E,4B,60,11
+114,BC,6E,52,11
+3510,2FE0,26,BEA,33
+11D,B9,25,27,11
+11C,B3,37,32,11
+17E,CB,36,4A,11
+FB,A0,38,2B,11
+120,AA,36,35,11
+10A,9E,28,21,11
+1A8,EC,35,54,11
+B5800,68A00,37,2DA8D,66
+10F,89,39,2E,11
+2D9,1B1,2E,8A,11
+12B,A5,36,3D,11
+190,F7,1F,44,11
+898,4BF,32,1C7,22
+147,DB,4E,52,11
+136,A5,2D,39,11
+237,14C,D0,102,11
+F9,AA,2E,25,11
+132,B7,1A,2A,11
+160,D2,29,3D,11
+1EB,103,43,6F,11
+100,92,27,22,11
+1B7,11A,29,4A,11
+205,11D,47,7B,11
+FF,AC,23,24,11
+A6C00,5B100,41,31788,66
+1178,A1C,2F,3B4,22
+10C,C5,27,28,11
+120,D5,20,26,11
+116,AD,28,28,11
+[#TSms]
+ 240
+ 440
+ 640
+ 840
+ 1040
+ 1240
+ 1440
+ 1640
+ 1840
+ 2040
+ 2240
+ 2440
+ 2640
+ 2840
+ 3040
+ 3240
+ 3440
+ 3640
+ 3840
+ 4040
+ 4240
+ 4440
+ 4640
+ 4840
+ 5040
+ 5240
+ 5440
+ 5640
+ 5840
+ 6040
+ 6240
+ 6440
+ 6640
+ 6840
+ 7040
+ 7240
+ 7440
+ 7640
+ 7840
+ 8040
+ 8240
+ 8440
+ 8640
+ 8840
+ 9040
+ 9240
+ 9440
+ 9640
+ 9840
+ 10040
+ 10240
+ 10440
+ 10640
+ 10840
+ 11040
+ 11240
+ 11440
+ 11640
+ 11840
+ 12040
+ 12240
+ 12440
+ 12640
+ 0
+[#TSpulses]
+ 4
+ 8
+ 12
+ 15
+ 18
+ 22
+ 23
+ 24
+ 28
+ 31
+ 35
+ 41
+ 42
+ 48
+ 49
+ 49
+ 49
+ 50
+ 53
+ 58
+ 60
+ 63
+ 65
+ 67
+ 70
+ 73
+ 74
+ 77
+ 79
+ 80
+ 81
+ 85
+ 86
+ 89
+ 92
+ 95
+ 98
+ 101
+ 106
+ 108
+ 111
+ 115
+ 118
+ 124
+ 128
+ 132
+ 137
+ 141
+ 146
+ 153
+ 158
+ 159
+ 160
+ 164
+ 167
+ 171
+ 175
+ 177
+ 183
+ 185
+ 191
+ 196
+ 198
+ 0
+[#TSconc]
+ 2
+ 0
+ 0
+ 0
+ 1
+ 1
+ 0
+ 0
+ 0
+ 0
+ 3
+ 1
+ 0
+ 4
+ 0
+ 0
+ 0
+ 0
+ 1
+ 5
+ 0
+ 0
+ 0
+ 2
+ 2
+ 0
+ 0
+ 19
+ 0
+ 0
+ 1
+ 0
+ 0
+ 1
+ 3
+ 0
+ 0
+ 0
+ 0
+ 0
+ 1
+ 27
+ 27
+ 0
+ 0
+ 0
+ 5
+ 1
+ 0
+ 7
+ 22
+ 0
+ 3
+ 0
+ 0
+ 2
+ 1
+ 0
+ 1
+ 0
+ 1
+ 21
+ 0
+ 0
+[#TSflow]
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 3887
+ 3887
+ 3887
+ 3887
+ 3887
+ 3887
+ 3887
+ 3887
+ 3887
+ 3887
+ 3887
+ 3887
+ 3887
+ 3887
+ 3887
+ 3887
+ 3887
+ 3887
+ 3887
+ 3887
+ 3887
+ 3887
+ 3887
+ 3887
+ 3887
+ 3887
+ 3887
+ 3887
+ 3887
+ 3887
+ 3887
+ 3975
+ 3975
+ 3975
+ 0
+[#TSvolts]
+ -312400
+ -312360
+ -312360
+ -312360
+ -312360
+ -312360
+ -312360
+ -312360
+ -312360
+ -312360
+ -312360
+ -312360
+ -312360
+ -312320
+ -312320
+ -312320
+ -312320
+ -312320
+ -312320
+ -312320
+ -312320
+ -312320
+ -312320
+ -312320
+ -312320
+ -312280
+ -312280
+ -312280
+ -312280
+ -312280
+ -312280
+ -312280
+ -312280
+ -312280
+ -312280
+ -312240
+ -312240
+ -312240
+ -312240
+ -312240
+ -312240
+ -312240
+ -312240
+ -312240
+ -312240
+ -312200
+ -312200
+ -312200
+ -312200
+ -312200
+ -312160
+ -312160
+ -312160
+ -312160
+ -312160
+ -312120
+ -312120
+ -312120
+ -312120
+ -312120
+ -312080
+ -312080
+ -312040
+ 0
+[#TSslots]
+ 184
+ 181
+ 178
+ 176
+ 173
+ 170
+ 167
+ 164
+ 161
+ 158
+ 155
+ 153
+ 150
+ 147
+ 144
+ 141
+ 138
+ 135
+ 132
+ 129
+ 127
+ 124
+ 121
+ 118
+ 115
+ 111
+ 109
+ 106
+ 103
+ 100
+ 97
+ 94
+ 91
+ 87
+ 84
+ 82
+ 79
+ 76
+ 73
+ 70
+ 67
+ 64
+ 61
+ 58
+ 55
+ 52
+ 49
+ 46
+ 43
+ 40
+ 37
+ 34
+ 31
+ 28
+ 25
+ 22
+ 19
+ 16
+ 13
+ 10
+ 6
+ 3
+ 0
+ 0
+[#TSpspeed]
+ 195
+ 150
+ 180
+ 180
+ 150
+ 180
+ 120
+ 150
+ 195
+ 180
+ 165
+ 150
+ 195
+ 150
+ 195
+ 150
+ 195
+ 150
+ 150
+ 180
+ 150
+ 210
+ 195
+ 210
+ 180
+ 165
+ 165
+ 195
+ 210
+ 195
+ 195
+ 180
+ 210
+ 165
+ 180
+ 165
+ 180
+ 195
+ 165
+ 165
+ 165
+ 195
+ 180
+ 180
+ 195
+ 165
+ 195
+ 150
+ 165
+ 165
+ 195
+ 180
+ 165
+ 165
+ 165
+ 165
+ 165
+ 195
+ 225
+ 180
+ 210
+ 165
+ 180
+ 0
+[#TSppressure]
+ 11761
+ 11758
+ 11760
+ 11760
+ 11758
+ 11760
+ 11756
+ 11758
+ 11761
+ 11760
+ 11759
+ 11758
+ 11761
+ 11758
+ 11761
+ 11758
+ 11761
+ 11758
+ 11758
+ 11760
+ 11758
+ 11762
+ 11761
+ 11762
+ 11760
+ 11759
+ 11759
+ 11761
+ 11762
+ 11761
+ 11761
+ 11760
+ 11762
+ 11759
+ 11760
+ 11759
+ 11760
+ 11761
+ 11759
+ 11759
+ 11759
+ 11761
+ 11760
+ 11760
+ 11761
+ 11759
+ 11761
+ 11758
+ 11759
+ 11759
+ 11761
+ 11760
+ 11759
+ 11759
+ 11759
+ 11759
+ 11759
+ 11761
+ 11763
+ 11760
+ 11762
+ 11759
+ 11760
+ 0
+[end]
+CHK1= 00584EBA
+CHK2= 6E5008F3
+CHK3= 070F2024
+CHK4= 180D486D
+CHK5= C:\cell_counter_results\Paloma\Soil-flasksexp-MA1\day4\JF_ICL-PBR_d7_t8_01.#m4
+[eof]
